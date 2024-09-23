@@ -5,3 +5,4 @@ echo "Přihlášení uživatele proběhlo v pořádku"
 #cd eshop_app/
 #"https://fonts.bunny.net"
 #fontshare
+#sh git_config.sh
